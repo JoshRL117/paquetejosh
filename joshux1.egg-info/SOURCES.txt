@@ -1,0 +1,11 @@
+setup.py
+joshux1/__init__.py
+joshux1/resta.py
+joshux1/suma.py
+joshux1.egg-info/PKG-INFO
+joshux1.egg-info/SOURCES.txt
+joshux1.egg-info/dependency_links.txt
+joshux1.egg-info/top_level.txt
+joshux1/extras/__init__.py
+joshux1/extras/division.py
+joshux1/extras/multiplicacion.py
